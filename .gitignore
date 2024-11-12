@@ -3,6 +3,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+mysql_data/*.sock
+mysql_data/*.index
+mysql_data/ib_buffer_pool
+
 
 ### STS ###
 .apt_generated
